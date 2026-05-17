@@ -79,7 +79,7 @@ function App() {
     <div style={{
       minHeight: '100vh', display: 'flex', gap: 30,
       alignItems: 'center', justifyContent: 'center',
-      background: '#ffffff', padding: 24,
+      background: '#ffffff', padding: 0,
       fontFamily: 'system-ui, -apple-system, sans-serif',
     }}>
       {t.showTwoPhones ? (
